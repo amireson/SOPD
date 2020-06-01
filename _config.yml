@@ -23,7 +23,7 @@ author: Andrew Ireson
 email: andrew.ireson@usask.ca
 description: >- # this means to ignore newlines until "baseurl:"
     SENS Online Program Delivery Taskforce
-baseurl: "/sopd" # the subpath of your site, e.g. /blog
+baseurl: "/SOPD" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
