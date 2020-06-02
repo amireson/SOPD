@@ -4,46 +4,39 @@ title: Video recording
 ---
 
 ## Recommendations for Panopto Recording and Postprocessing
+<hr>
 
--   A brief introduction to recording and editing in Panopty by Tyson
-    Brown, including provisioning courses with Panopto, installing the
-    Panopto app, recording with Panopto, and editing Panopto content
-
-<https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de8d4280-86c1-4ba3-9ad7-aba5012caaa4>
-
--   A brief introduction to recording and editing in Panopty by Markus
+<a href="https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e73f6f93-0068-4274-8526-ab8001415c73">Video</a>: A brief introduction to recording and editing in Panopty by Markus
     Brinkmann, including provisioning courses with Panopto, installing
     the Panopto app, recording with Panopto, and editing Panopto content
 
-<https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e73f6f93-0068-4274-8526-ab8001415c73>
+<hr>
 
--   Official JIRA content on recording with Panopto
+<a href="https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de8d4280-86c1-4ba3-9ad7-aba5012caaa4">Video</a>: A more detailed introduction to recording and editing in Panopty by Tyson
+    Brown, including provisioning courses with Panopto, installing the
+    Panopto app, recording with Panopto, and editing Panopto content
 
-<https://jira.usask.ca/servicedesk/customer/kb/view/1456669147?q=Getting+Started+Recording+With+Panopto>
+<hr>
 
-<https://www.usask.ca/ict/coursetools/addmanagecontent/working-with-video.php>
+Official JIRA content on recording with Panopto can be read <a href="https://jira.usask.ca/servicedesk/customer/kb/view/1456669147?q=Getting+Started+Recording+With+Panopto">here</a> and <a href="https://www.usask.ca/ict/coursetools/addmanagecontent/working-with-video.php">here</a>.
 
--   Official USASK Panopto Instruction (Tyson Brown): Provisioning
-    Course with Panopto
+<hr>
+<a href="https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bda0e8de-0fc2-45d9-9bc5-3a71aaef417a">Video</a>: Official USASK Panopto Instruction (Tyson Brown): Provisioning
+  Course with Panopto
 
-<https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bda0e8de-0fc2-45d9-9bc5-3a71aaef417a>
-
--   Official USASK Panopto Instruction (Tyson Brown): Move Panopto
+<hr>
+<a href="https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3ed2aca9-41e3-4e9f-8111-41ab13f98581">Video</a>: Official USASK Panopto Instruction (Tyson Brown): Move Panopto
     Recording from MyFolder to course.
 
-*Note: It is good practice to record to your MyFolder first, then edit,
-and then move/copy to your class folder.*
+<hr>
 
-<https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3ed2aca9-41e3-4e9f-8111-41ab13f98581>
-
--   Extensive Panopto Help Resources, including editing:
-
-<https://support.panopto.com/s/>
+Extensive Panopto Help Resources, including editing: <https://support.panopto.com/s/>
 
 To access this site, you will need to create an account. Just provide
 your name, email address, Panopto URL (usask.cloud.panopto.eu), and
 create a password. Please note that these more detailed and in-depth
 instructional videos will hardly be needed on a regular basis.
+<hr>
 
 ## A few helpful pointers:
 
