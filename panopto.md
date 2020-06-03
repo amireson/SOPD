@@ -2,17 +2,20 @@
 layout: home
 title: Video recording
 ---
+**Note:** some information herein relates to the **blackboard** LMS. This will be updated when **canvas** comes online.
 
 ## Recommendations for Panopto Recording and Postprocessing
+
+
 <hr>
 
-<a href="https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e73f6f93-0068-4274-8526-ab8001415c73">Video</a>: A brief introduction to recording and editing in Panopty by Markus
+<a href="https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e73f6f93-0068-4274-8526-ab8001415c73">Video</a>: A brief introduction to recording and editing in Panopto by Markus
     Brinkmann, including provisioning courses with Panopto, installing
     the Panopto app, recording with Panopto, and editing Panopto content
 
 <hr>
 
-<a href="https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de8d4280-86c1-4ba3-9ad7-aba5012caaa4">Video</a>: A more detailed introduction to recording and editing in Panopty by Tyson
+<a href="https://usask.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de8d4280-86c1-4ba3-9ad7-aba5012caaa4">Video</a>: A more detailed introduction to recording and editing in Panopto by Tyson
     Brown, including provisioning courses with Panopto, installing the
     Panopto app, recording with Panopto, and editing Panopto content
 
