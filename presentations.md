@@ -43,3 +43,5 @@ Consider the tenets of plagiarism: don’t pass off work as your own, cite your 
 [CreateHER](https://createherstock.com/): paid options inclusive of authentic stock images featuring women of colour.
 
 [Body liberation](https://stock.bodyliberationphotos.com/): paid options inclusive of a broad range of disability, age, and body images.
+
+[Pexels](https://pexels.com): free images, inclusive of intersectional identities.
