@@ -1,7 +1,0 @@
----
-layout: home
----
-
-# Internet resources
-
-
