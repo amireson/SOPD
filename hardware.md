@@ -14,6 +14,8 @@ It is important that online lectures are recorded with high quality audio and vi
 
 --->   
 
+<p style="margin-bottom:1cm;"></p>
+
 Andrew's home recording studio setup is shown here: 
 
 <img src="{{site.baseurl}}/images/AndrewDesk01.jpg">
