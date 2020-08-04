@@ -13,3 +13,21 @@ It is important that online lectures are recorded with high quality audio and vi
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdirnkyd5SgbovPnVaZ1sx2T8nEnlJJUO1XfNlFJ20oY38UDg/viewform?embedded=true" width="800" height="928" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 --->   
+
+Andrew's home recording studio setup is shown here: 
+
+<img src="{{site.baseurl}}/images/AndrewDesk01.jpg">
+
+<img src="{{site.baseurl}}/images/AndrewDesk02.jpg">
+
+I have the following hardware:
+
+* Yeti Blue microphone.
+
+* Logi webcam that I got from IT supplies before COVID19 (I think it was $100). The video quality is much better than my built in webcam, and I didn't find a good solution for using a smartphone for this.
+
+* Ring light that Jennifer bought me. I have the light set back and above me, with a straight line between me, the webcam and the light to avoid shadows.
+
+* iPad and apple pencil is for screen recordings of me writing equations and sketching diagrams. Works very well - basically it's a virtual whiteboard. I use quicktime (free with Mac) to record the screen of the iPad.
+
+* Laptop screen is at eye level and close to webcam so I'm not turning my head all the time. 

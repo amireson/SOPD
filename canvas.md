@@ -23,6 +23,22 @@ Read [this](https://words.usask.ca/gmcte/2020/05/25/offering-seminar-courses-rem
 
 The distance education unit (DEU) releases weekly "digests", all of which are available here: [https://sites.usask.ca/edtech/deu-digest-archive/](https://sites.usask.ca/edtech/deu-digest-archive/)
 
+More online teaching resources from DEU are here: [https://sites.usask.ca/edtech/](https://sites.usask.ca/edtech/)
+
+## Resources from the CANVAS organization and community
+
+[General material and instructors’ resources.](https://community.canvaslms.com/docs/DOC-10460-canvas-instructor-guide-table-of-contents)
+
+[Video guides](https://community.canvaslms.com/community/answers/guides/video-guide)
+
+[Importing content from blackboard to Canvas](https://community.canvaslms.com/docs/DOC-12852-415257065)
+
+[Setting up your canvas course](https://community.canvaslms.com/docs/DOC-18584-set-up-your-canvas-course-in-30-minutes-or-less)
+
+[Canvas community](https://community.canvaslms.com/groups/instructors/pages/home)
+
+[Discussions](https://community.canvaslms.com/videos/1109-discussions-overview-instructors)
+
 ## Need help?
 
 [Here](https://training.usask.ca/academic-tech/getting-support-with-canvas.php) is an overview of the support available at the U of S. 
@@ -30,4 +46,5 @@ The distance education unit (DEU) releases weekly "digests", all of which are av
 [Go here](https://training.usask.ca/academic-tech/supported-learning.php) to find out about the range of options for supported learning.
     
 Or, if you want to go it alone, [go here](https://training.usask.ca/academic-tech/independent-learning.php) to find out about independent training resources for Canvas
+
 
