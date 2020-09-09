@@ -6,6 +6,9 @@ title: Video recording
 
 ## Recommendations for Panopto Recording and Postprocessing
 
+**IMPORTANT** there is a student with hearing difficulties, so I strongly recommend that you add closed captioning to your videos. This is done very easily - simply go to edit your video in the panopto online manager thing, click "Captions" -> "Import automatic captions", as also shown here:
+
+![]({{site.baseurl}}/images/CC.png)
 
 <hr>
 
