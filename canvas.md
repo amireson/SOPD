@@ -11,6 +11,14 @@ As you thinking about building your material, this figure may help - an overview
 
 ![]({{site.baseurl}}/images/WhatWorks.png)
 
+# Communicating with students
+
+There are a number of ways to communicate with students through canvas, but based on 1 week experience teaching a class - I (Andrew) find the canvas inbox to be the best. This behaves exactly like email, but you can easily find individual students or groups of students to send to. This will send you email notifications if you get a message, but you cannot reply through your regular email. Also - *hot tip* use the canvas teacher app on your phone - it's easy to reply to messages through this. 
+
+# Using a phone/tablet
+
+Short version = don't expect students to have a nice experience if they try to use phone to watch content. I (Andrew) only recommend using phone for the inbox.
+
 Here, we curate what the SOPD believes are the best of these resources.
 
 # Compilation of Canvas resources
