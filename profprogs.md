@@ -30,3 +30,5 @@ When you edit a module you can add "pre-requisites" and "requirements" - use thi
 ![]({{site.baseurl}}/images/Module_settings.png)
 
 Finally **in Canvas, don't forget to click publish.**
+
+Finally, finally, I will mention that this went overall much better than I anticipated, and I got some very nice comments from the students at the end. I think responding to emails as quickly as possible was really important to keeping the students happy and on-track.
